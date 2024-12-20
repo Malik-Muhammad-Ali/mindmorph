@@ -1,0 +1,312 @@
+.cl-internal-1a2d2gv {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 1em;
+    will-change: transform, opacity, height;
+    border-radius: 1rem;
+    background-color: white;
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-duration: 200ms;
+    width: 25rem;
+    max-width: calc(-5rem + 100vw);
+    margin: 0px 1.75rem;
+    padding: 2.375rem 2rem 3rem;
+    box-shadow: rgb(0, 0, 0) 7px 7px 0px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.cl-internal-vqjo9j {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    height: 48px;
+    object-fit: cover;
+}
+
+.cl-internal-yuuwrj {
+    box-sizing: border-box;
+    display: inline-flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 0.8125rem;
+    line-height: 1.25;
+    color: rgb(0, 0, 0);
+    -webkit-font-smoothing: auto !important;
+}
+
+.cl-internal-1yihf81 {
+    display: inline-block;
+    height: 100%;
+    width: auto;
+}
+
+.cl-internal-dtblrc {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 0.25rem;
+}
+
+.cl-internal-13pijlz {
+    box-sizing: border-box;
+    color: black;
+    margin: 0px;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    -webkit-font-smoothing: auto !important;
+}
+
+.cl-internal-1ow1n0l {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    font-size: 1rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.25;
+    -webkit-font-smoothing: auto !important;
+}
+
+.cl-internal-xk295g {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.cl-internal-1hhd4k {
+    box-sizing: inherit;
+    display: grid
+;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    justify-content: stretch;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+}
+
+.cl-internal-18aek0g {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.cl-internal-n0ak4e {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 0.25rem;
+}
+
+.cl-internal-1ih93q2 {
+    margin: 0px;
+    padding: 0.625rem 1.25rem;
+    outline: 0px;
+    user-select: none;
+    cursor: pointer;
+    background-color: unset;
+    border-radius: 0.375rem;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-duration: 100ms;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1;
+    min-height: 2.25rem;
+    letter-spacing: 0.5px;
+    width: 100%;
+    --border: hsla(0, 0%, 0%, 0.08);
+    --accentLightest: hsla(0, 0%, 0%, 0.04);
+    --accentLighter: hsla(0, 0%, 0%, 0.16);
+    --accent: black;
+    --accentDark: hsla(0, 0%, 0%, 0.48);
+    --accentDarker: hsla(0, 0%, 0%, 0.64);
+    /* gap: 1rem; */
+    position: relative;
+    -webkit-box-pack: start;
+    justify-content: center;
+    --arrow-opacity: 0;
+    --arrow-transform: translateX(-0.5rem);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    box-shadow: rgb(0, 0, 0) 3px 3px 0px;
+    border: 2px solid rgb(0, 0, 0);
+    -webkit-font-smoothing: auto !important;
+    color: white;
+}
+
+.cl-internal-9ci4h9 {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex: 0 0 1.25rem;
+}
+
+.cl-internal-10hu44j {
+    width: 1.25rem;
+    height: auto;
+    max-width: 100%;
+}
+
+.cl-internal-16pk7q8 {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+.cl-internal-1jg44cw {
+    box-sizing: border-box;
+    color: inherit;
+    margin: 0px;
+    font-size: 0.8125rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.25;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-font-smoothing: auto !important;
+}
+
+cl-internal-u0g48b {
+    flex-shrink: 0;
+    transition: 100ms;
+    min-width: 1rem;
+    min-height: 1rem;
+    width: 1em;
+    height: 1em;
+    opacity: var(--arrow-opacity);
+    transform: var(--arrow-transform);
+}
+
+
+
+.cl-internal-u0g48b {
+    flex-shrink: 0;
+    transition: 100ms;
+    min-width: 1rem;
+    min-height: 1rem;
+    width: 1em;
+    height: 1em;
+    opacity: var(--arrow-opacity);
+    transform: var(--arrow-transform);
+}
+
+.cl-internal-18aek0g {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.cl-internal-n0ak4e {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 0.25rem;
+}
+
+.cl-internal-1fvshox {
+    box-sizing: inherit;
+    display: flex
+;
+    flex-flow: row;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    gap: 0.75rem;
+}
+
+.cl-internal-5o2jen {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    font-size: 0.8125rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.25;
+    -webkit-font-smoothing: auto !important;
+}
+
+.cl-internal-v22442 {
+    box-sizing: border-box;
+    display: inline-flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 0.8125rem;
+    line-height: 1.25;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    border-bottom: 2px solid;
+    -webkit-font-smoothing: auto !important;
+}
