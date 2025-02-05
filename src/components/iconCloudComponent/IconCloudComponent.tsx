@@ -17,7 +17,7 @@ const slugs = [
   "nginx",
   "vercel",
   "jest",
-  "cypress",
+  // "cypress",
   "docker",
   "git",
   "github",
@@ -31,33 +31,35 @@ const slugs = [
   "kubernetes",
   "azure",
   "redux",
-  "mobx",
+  // "mobx",
   "graphql",
   "apollo",
-  "webpack",
+  // "webpack",
   "babel",
   "eslint",
-  "prettier",
+  // "prettier",
   "tailwindcss",
-  "bootstrap",
+  // "bootstrap",
   "materialui",
-  "antdesign",
-  "chakraui",
-  "storybook",
+  // "antdesign",
+  // "chakraui",
+  // "storybook",
   "jest",
   "enzyme",
-  "playwright",
+  // "playwright",
   "kalilinux",
   "angular",
-  'svelte',
+  "svelte",
 ];
 
-const IconCloudComponent = () => {
+export default function IconCloudDemo() {
+  const images = slugs.map(
+    (slug) => `https://cdn.simpleicons.org/${slug}/${slug}`
+  );
+
   return (
-    <div className="relative">
-      <IconCloud iconSlugs={slugs} />
+    <div className="relative flex items-center justify-center">
+      <IconCloud images={images} />
     </div>
   );
 }
-
-export default IconCloudComponent;

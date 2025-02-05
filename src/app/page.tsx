@@ -4,6 +4,7 @@ import MilestoneComponent from "@/components/milestoneComponent/MilestoneCompone
 import Testimonial from "@/components/testimonial/Testimonial";
 import DetailSection from "@/components/detailSection/DetailSection";
 import Footer from "@/components/footer/Footer";
+import GlobeComponent from "@/components/globeComponent/GlobeComponent";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <MarqueeComponent />
       <DetailSection />
       {/* <Testimonial /> */}
+      {/* <GlobeComponent /> */}
       <MilestoneComponent />
       <Footer />
     </>
